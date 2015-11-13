@@ -1,5 +1,5 @@
 #--macro uhx.macro.KlasImp.addGlobalMetadata("", "@:build(uhx.slip.Flow.setup())", true, true, false)
---macro uhx.slip.Flow.setup()
+--macro uhx.macro.Explicit.setup()
 -lib klas
 -cp src
 -main Main
