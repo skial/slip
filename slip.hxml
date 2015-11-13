@@ -1,0 +1,5 @@
+-lib klas
+-cp src
+-neko bin/slip.n
+-main Main
+--macro uhx.macro.Explicit.setup()

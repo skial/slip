@@ -1,0 +1,9 @@
+#--macro uhx.macro.KlasImp.addGlobalMetadata("", "@:build(uhx.slip.Flow.setup())", true, true, false)
+--macro uhx.slip.Flow.setup()
+-lib klas
+-cp src
+-main Main
+
+--each
+
+-neko bin/slip.n
